@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="Caminho_SIH_DBC" prompt="Caminho_SIH_DBC?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIHSUS\DBC"/>
+  <contextParameter comment="" name="Caminho_SIH_DBF" prompt="Caminho_SIH_DBF?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIHSUS\DBF"/>
+  <contextParameter comment="" name="Caminho_SIH_CSV" prompt="Caminho_SIH_CSV?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIHSUS\CSV"/>
+  <contextParameter comment="" name="Caminho_SIH_Log" prompt="Caminho_SIH_Log?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIHSUS"/>
+  <contextParameter comment="" name="Caminho_SIH_FTP" prompt="Caminho_SIH_FTP?" promptNeeded="false" type="id_String" value="/dissemin/publicos/SIHSUS/200801_/Dados"/>
+  <contextParameter comment="" name="Programa_DBC2DBF" prompt="Programa_DBC2DBF?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\tab36b\dbf2dbc"/>
+</talendfile:ContextType>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:FTPConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_SN_HEBQ3EeWL1bmcdRWlCQ" Host="ftp.datasus.gov.br" Port="21" Username="anonymous" Password="GHnycdlDbmqtrjSR4Cye5A==" Mode="Passive" Ecoding="ISO-8859-15" Method="" KeystoreFile="" KeystorePassword="" Proxyhost="" Proxyport="" Proxyuser="" Proxypassword="" CustomEncode="ISO-8859-15"/>

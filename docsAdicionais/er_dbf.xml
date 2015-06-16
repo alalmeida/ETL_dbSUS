@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+<column comment="" default="" key="false" nullable="true" label="SEQUENCIA"
+originalDbColumnName="SEQUENCIA" length="9" precision="-1" pattern="" talendType="id_Long" />
+<column comment="" default="" key="false" nullable="true" label="REMESSA"
+originalDbColumnName="REMESSA" length="21" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="CNES"
+originalDbColumnName="CNES" length="7" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="AIH"
+originalDbColumnName="AIH" length="13" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="ANO"
+originalDbColumnName="ANO" length="4" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="MES"
+originalDbColumnName="MES" length="2" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="DT_INTER"
+originalDbColumnName="DT_INTER" length="10" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="DT_SAIDA"
+originalDbColumnName="DT_SAIDA" length="10" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="MUN_MOV"
+originalDbColumnName="MUN_MOV" length="6" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="UF_ZI"
+originalDbColumnName="UF_ZI" length="6" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="MUN_RES"
+originalDbColumnName="MUN_RES" length="6" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="UF_RES"
+originalDbColumnName="UF_RES" length="2" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="CO_ERRO"
+originalDbColumnName="CO_ERRO" length="6" precision="-1" pattern="" talendType="id_String" />
+</schema>
