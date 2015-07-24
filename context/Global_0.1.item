@@ -9,4 +9,10 @@
   <contextParameter comment="" name="Caminho_SIA_DBC" prompt="Caminho_SIA_DBC?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIASUS\DBC"/>
   <contextParameter comment="" name="Caminho_SIA_DBF" prompt="Caminho_SIA_DBF?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIASUS\DBF"/>
   <contextParameter comment="" name="Caminho_SIA_CSV" prompt="Caminho_SIA_CSV?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIASUS\CSV"/>
+  <contextParameter comment="" name="Caminho_SIA_FTP" prompt="Caminho_SIA_FTP?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="Caminho_CNES_DBC" prompt="Caminho_CNES_DBC?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\CNES\DBC"/>
+  <contextParameter comment="" name="Caminho_CNES_DBF" prompt="Caminho_CNES_DBF?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\CNES\DBF"/>
+  <contextParameter comment="" name="Caminho_CNES_CSV" prompt="Caminho_CNES_CSV?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\CNES\CSV"/>
+  <contextParameter comment="" name="Caminho_CNES_FTP" prompt="Caminho_CNES_FTP?" promptNeeded="false" type="id_String" value="/dissemin/publicos/CNES/200508_/Dados"/>
+  <contextParameter comment="" name="Caminho_CNES_Log" prompt="Caminho_CNES_Log?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\CNES"/>
 </talendfile:ContextType>

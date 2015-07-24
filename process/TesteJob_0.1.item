@@ -97,16 +97,17 @@
     <routinesParameter id="_KGcNpBQ2EeWL1bmcdRWlCQ" name="TalendDate"/>
     <routinesParameter id="_KGcNqBQ2EeWL1bmcdRWlCQ" name="TalendString"/>
   </parameters>
-  <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="192" posY="96">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1"/>
+  <node componentName="tDBFInput" componentVersion="1.0" offsetLabelX="0" offsetLabelY="0" posX="64" posY="64">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBFInput_1"/>
     <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="C:\Users\Administrator\TOS_DI-20150508_1414-V5.6.2\configuration\lib\java"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="// tJava_1 Code&#xA;System.out.println(&quot;dog&quot;);&#xA;System.out.println(&quot;cat&quot;);&#xA;System.out.println(context.Caminho_SIH_Log);&#xA;Locale defaultLocale = Locale.getDefault();&#xA;System.out.println(&quot;Language,   Country,    Variant,    Name&quot;);&#xA;System.out.println(&quot;__________________________________________&quot;);&#xA;System.out.println( defaultLocale.getLanguage()+&quot;,\t\t\t&quot;+defaultLocale.getCountry()+&quot;,\t&quot;&#xA;                    +defaultLocale.getVariant()+&quot;,\t&quot;+defaultLocale.getDisplayName()&#xA;                  );"/>
-    <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;&#xA;import java.util.Locale;&#xA;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;F:/EDI/Datasus/CNES/DBF/STSP1505.dbf&quot;"/>
+    <elementParameter field="CHECK" name="DEBUG" value="true"/>
+    <elementParameter field="FILE" name="SCHEMANAME" value="&quot;C:/Users/Administrator/TOS_DI-20150508_1414-V5.6.2/workspace/CNES_ST.xml&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
-    <metadata connector="FLOW" name="tJava_1"/>
+    <metadata connector="FLOW" name="tDBFInput_1"/>
   </node>
   <subjob>
-    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1"/>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBFInput_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="160;190;240"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="220;220;250"/>
   </subjob>
