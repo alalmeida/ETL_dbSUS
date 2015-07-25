@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+<column comment="" default="" key="false" nullable="true" label="CNES"
+originalDbColumnName="CNES" length="7" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="CPF_CNPJ"
+originalDbColumnName="CPF_CNPJ" length="14" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="FANTASIA"
+originalDbColumnName="FANTASIA" length="60" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="RAZ_SOCI"
+originalDbColumnName="RAZ_SOCI" length="85" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="RSOC_MAN"
+originalDbColumnName="RSOC_MAN" length="60" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="LOGRADOU"
+originalDbColumnName="LOGRADOU" length="40" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="NUM_END"
+originalDbColumnName="NUM_END" length="10" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="COMPLEME"
+originalDbColumnName="COMPLEME" length="20" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="BAIRRO"
+originalDbColumnName="BAIRRO" length="20" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="COD_CEP"
+originalDbColumnName="COD_CEP" length="8" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="TELEFONE"
+originalDbColumnName="TELEFONE" length="13" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="FAX"
+originalDbColumnName="FAX" length="13" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="EMAIL"
+originalDbColumnName="EMAIL" length="30" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="REGSAUDE"
+originalDbColumnName="REGSAUDE" length="4" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="MICR_REG"
+originalDbColumnName="MICR_REG" length="6" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="DISTRSAN"
+originalDbColumnName="DISTRSAN" length="4" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="DISTRADM"
+originalDbColumnName="DISTRADM" length="4" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="CODUFMUN"
+originalDbColumnName="CODUFMUN" length="6" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="EXCLUIDO"
+originalDbColumnName="EXCLUIDO" length="1" precision="-1" pattern="" talendType="id_String" />
+<column comment="" default="" key="false" nullable="true" label="DATAINCL"
+originalDbColumnName="DATAINCL" length="8" precision="-1" pattern="dd-MM-yyyy" talendType="id_Date" />
+<column comment="" default="" key="false" nullable="true" label="DATAEXCL"
+originalDbColumnName="DATAEXCL" length="8" precision="-1" pattern="dd-MM-yyyy" talendType="id_Date" />
+<column comment="" default="" key="false" nullable="true" label="NATUREZA"
+originalDbColumnName="NATUREZA" length="2" precision="-1" pattern="" talendType="id_String" />
+</schema>

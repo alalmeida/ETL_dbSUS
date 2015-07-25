@@ -100,9 +100,9 @@
   <node componentName="tDBFInput" componentVersion="1.0" offsetLabelX="0" offsetLabelY="0" posX="64" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBFInput_1"/>
     <elementParameter field="DIRECTORY" name="JAVA_LIBRARY_PATH" value="C:\Users\Administrator\TOS_DI-20150508_1414-V5.6.2\configuration\lib\java"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;F:/EDI/Datasus/CNES/DBF/STSP1505.dbf&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;F:/EDI/Datasus/CNES/tab_cnes_tabelasDBF_201501/CADGERBR.dbf&quot;"/>
     <elementParameter field="CHECK" name="DEBUG" value="true"/>
-    <elementParameter field="FILE" name="SCHEMANAME" value="&quot;C:/Users/Administrator/TOS_DI-20150508_1414-V5.6.2/workspace/CNES_ST.xml&quot;"/>
+    <elementParameter field="FILE" name="SCHEMANAME" value="&quot;C:/Users/Administrator/TOS_DI-20150508_1414-V5.6.2/workspace/CNES_CADGERBR.xml&quot;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBFInput_1"/>
   </node>
