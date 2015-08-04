@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="SIGTAP_DBRootPath" prompt="SIGTAP_DBRootPath?" promptNeeded="false" type="id_Directory" value=""/>
+  <contextParameter comment="" name="SIGTAP_Login" prompt="SIGTAP_Login?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="SIGTAP_Password" prompt="SIGTAP_Password?" promptNeeded="false" type="id_Password" value=""/>
+  <contextParameter comment="" name="SIGTAP_Database" prompt="SIGTAP_Database?" promptNeeded="false" type="id_String" value="F:\EDI\Datasus\SIGTAP\JAR\tupDeskDB"/>
+</talendfile:ContextType>

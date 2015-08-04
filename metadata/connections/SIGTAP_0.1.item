@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_y9b90DQKEeWX5oarwLxrvw" name="SIGTAP" id="_Ct5QwDQJEeWX5oarwLxrvw" label="SIGTAP" ContextMode="true" ContextId="_yR2DIDQKEeWX5oarwLxrvw" contextName="Default" DatabaseType="JavaDB Embeded" DriverClass="org.apache.derby.jdbc.EmbeddedDriver" URL="jdbc:derby:F:\EDI\Datasus\SIGTAP\JAR\tupDeskDB" Port="" Username="context.SIGTAP_Login" Password="context.SIGTAP_Password" ServerName="" DatasourceName="" FileFieldName="" SID="context.SIGTAP_Database" SqlSynthax="SQL Syntax" DbmsId="javadb_id" ProductId="JAVADB" DBRootPath="context.SIGTAP_DBRootPath" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_y9b90TQKEeWX5oarwLxrvw" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_y-LksDQKEeWX5oarwLxrvw" tag="package filter" value=""/>
+  <parameters xmi:id="_y9b90jQKEeWX5oarwLxrvw" key="CONN_PARA_KEY_USERNAME" value="context.SIGTAP_Login"/>
+</TalendMetadata:DatabaseConnection>
